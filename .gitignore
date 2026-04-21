@@ -1,0 +1,25 @@
+# Ignore environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Ignore frontend completely
+../frontend/
+
+# Ignore node modules if any
+node_modules/
+
+# VS Code settings (optional)
+.vscode/
